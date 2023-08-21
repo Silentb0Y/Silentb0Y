@@ -1,7 +1,7 @@
 <img  height='20%' width='100%'  src='https://www.thepostcity.com/wp-content/uploads/2020/08/mern-stack.png'>
 <h1 align="center">Hi 👋, I'm Abhijeet Dhekane</h1>
 <h2 align="center" style='color:'red'>I'm a Web developer from India</h2>
-<img align='right' alt='Coding' width='400' src='https://th.bing.com/th/id/OIP.l3lbh0aIF8d_fJA_eXVgMAHaHZ?pid=ImgDet&rs=1'>
+
 
 
 
